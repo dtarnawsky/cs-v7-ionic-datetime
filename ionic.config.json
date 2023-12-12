@@ -1,0 +1,7 @@
+{
+  "name": "cs-v7-date-picker",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
